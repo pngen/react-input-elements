@@ -1,0 +1,1 @@
+ReactDOM.render(React.createElement(Content, { "data-url": "http://webappblog.com" }), document.getElementById("content"));
